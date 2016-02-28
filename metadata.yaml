@@ -1,0 +1,37 @@
+_repo: Uncle-Robert-s-Geography-Uncle-Robert-s-Visit-V3_6441
+creator:
+  authors:
+  - agent_name: Helm, Nellie Lathrop
+    gutenberg_agent_id: '4618'
+    url: http://www.gutenberg.org/2009/agents/4618
+  - agent_name: Parker, Francis W. (Francis Wayland)
+    aliases:
+    - Parker, F. W. (Francis Wayland)
+    - Parker, Francis Wayland
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '2045'
+    url: http://www.gutenberg.org/2009/agents/2045
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Wayland_Parker
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6441'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life'
+- !lcc 'PE'
+- !lcsh 'Natural history'
+- !lcc 'QH'
+- !lcsh 'Readers'
+tableOfContents: Uncle Robert's coming -- Frank draws a map of the farm -- The new
+  thermometer -- With the animals -- In the flower garden -- Sunlight and shadow --
+  The barometer -- A walk in the woods -- The birds and the flowers -- The thundershower
+  -- The village -- A day on the river -- A rainy day -- The walk after the rain --
+  The big book.
+title: Uncle Robert's Geography (Uncle Robert's Visit, V.3)
+url: http://www.gutenberg.org/ebooks/6441
